@@ -10,8 +10,8 @@
 
 
 
-Asignatura: Diseño y Arquitectura de Software
-Curso: SOF-S-MA-5-2
+### Asignatura: Diseño y Arquitectura de Software
+### Curso: SOF-S-MA-5-2
 
 
 ## by Manuel Burgos Ramirez
